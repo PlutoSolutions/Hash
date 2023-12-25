@@ -16,7 +16,7 @@ internal injectable hack. if you want it to be "screenshare proof" then write yo
 
 # [ how-to ]
 
-download from [releases](https://github.com/PlutoSolutions/Hash) and inject it with whatever
+download from [releases](https://github.com/PlutoSolutions/Hash/releases/latest) and inject it with whatever
 
 ^ just use [extreme injector](https://github.com/master131/ExtremeInjector/releases/tag/v3.7.3) 
 
